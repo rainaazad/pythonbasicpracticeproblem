@@ -184,5 +184,3 @@ print(count_total_number(3452))
 
 # Write a program to use for loop to print the following reverse number pattern
 
-
-
